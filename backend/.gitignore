@@ -1,0 +1,27 @@
+# Ambiente Virtual (venv)
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração do VSCode
+.vscode/
+
+# Arquivos de cache do Python
+*.py[cod]
+*$py.class
+
+# Arquivos de log
+*.log
+
+# Arquivos de banco de dados
+*.sqlite3
+
+# Dependências de pacotes
+*.egg-info/
+dist/
+build/
+
+# Arquivos de configuração do sistema
+.DS_Store  # para MacOS
+Thumbs.db  # para Windows
